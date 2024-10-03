@@ -8,3 +8,5 @@
 ![](https://skillicons.dev/icons?i=js,ts,html,css,laravel,nginx,react,php,py,bash,c,cpp,cs,java,kotlin)
 ![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,cloudflare,docker,gcp,anaconda,gradle,maven,npm,yarn)
 ![](https://skillicons.dev/icons?i=arch,debian,ubuntu,windows,vim,vscode,git,github)
+
+*Yeah, most of my repositories are private.*
